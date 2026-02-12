@@ -1,7 +1,6 @@
 #xLMS
 xAPI enabled Learning Management System.
 
-
 ## User Management
 ### User Status Change
 #### Make user status suspended to active
